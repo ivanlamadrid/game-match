@@ -32,6 +32,7 @@ public class Board : MonoBehaviour
             {
                 var myObject = Instantiate(titleObject, new Vector3(x, y, -5), Quaternion.identity);
                 myObject.transform.parent = transform;
+                myObject.GetComponent<Tiles>()?.SetUp(x, y, this);
             }
         }
     }
