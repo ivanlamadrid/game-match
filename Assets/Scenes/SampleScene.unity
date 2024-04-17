@@ -371,9 +371,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abe40359ed3bd7542925c88219bdf453, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 4
-  height: 8
+  width: 5
+  height: 5
   titleObject: {fileID: 603023173899302744, guid: 52a0fd3ce4a1eff49bc74a92dfb09bb1, type: 3}
+  cameraSizeOffSet: 0
+  cameraVerticalOffSet: 0
 --- !u!4 &1151320646
 Transform:
   m_ObjectHideFlags: 0
