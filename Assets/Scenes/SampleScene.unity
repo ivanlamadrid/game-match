@@ -373,9 +373,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   width: 5
   height: 8
-  titleObject: {fileID: 603023173899302744, guid: 52a0fd3ce4a1eff49bc74a92dfb09bb1, type: 3}
+  titleObject: {fileID: 3841645677871876451, guid: 977a90cf30a618c45a0f79d99952277f, type: 3}
   cameraSizeOffSet: 0
   cameraVerticalOffSet: 0
+  availablePieces:
+  - {fileID: 4130519927984867486, guid: 52a0fd3ce4a1eff49bc74a92dfb09bb1, type: 3}
+  - {fileID: 3864024220304225587, guid: 9d7b0ba9cb6e591418cea2f7857bfa5c, type: 3}
+  - {fileID: 6789107164833708139, guid: 7bd31be4fb7c29c4593ae1b70de9f5a7, type: 3}
+  - {fileID: 3876672583378345284, guid: f37adde4ee31f2344bb83cefaa404210, type: 3}
+  - {fileID: 4370414859783932348, guid: 62424ba465c35f94a8ecda451074c33f, type: 3}
+  - {fileID: 3459096869480963450, guid: 5d54084e93ee1484e8e85d226871e4f7, type: 3}
+  - {fileID: 210164918486139629, guid: 8302dd356d6f1194d9cd4f8267921923, type: 3}
+  - {fileID: 6185880174022370984, guid: c28425ca7bb1bef4281f520374212600, type: 3}
+  - {fileID: 6053958115016332802, guid: df8ccbb6e0ffea2458aaa318fb4031fe, type: 3}
+  - {fileID: 6618033586959564367, guid: 2cb1931a9453a5c4385655d206d2d08a, type: 3}
 --- !u!4 &1151320646
 Transform:
   m_ObjectHideFlags: 0
